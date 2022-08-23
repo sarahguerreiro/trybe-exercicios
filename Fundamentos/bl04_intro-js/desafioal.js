@@ -6,6 +6,6 @@ for (let index = 0; index < numbers.length; index += 1) {
     if (numbers[index] === valor) {
         console.log(index)
     } else {
-        console.log(erro)
+        console.log()
     }
 }
