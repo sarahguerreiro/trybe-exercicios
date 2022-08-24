@@ -1,0 +1,1 @@
+const notaCandidato = 55;
